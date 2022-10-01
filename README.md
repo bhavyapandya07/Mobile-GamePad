@@ -53,7 +53,7 @@ This app is built-in MVVM Architecture:
 ↬ Joystick - is responsible for the joystick to move and send in the end to the Service.onChange the changes that happened. (if the joystick moved) 
 ↬ ModelFlight - is responsible to connect to the FlightGear and send requests. 
 ↬ ViewModel - is responsible to connect between the view (MainActivity) and the model (ModelFlight)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Libraries used: 
 ↬ Vertical SeekBar v1.0.0 - https://github.com/h6ah4i/android-verticalseekbar
 ↬ Virtual Joystick Android v1.10.1 - https://github.com/controlwear/virtual-joystick-android
