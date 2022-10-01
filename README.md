@@ -1,5 +1,5 @@
 # Mobile-GamePad
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Telnet Protocal: Telnet is a network protocol used to virtually access a computer and to provide a two-way connection 
                  A telnet is a emulation program that is used to access remote servers 
                  ↬ Command line tool 
@@ -7,16 +7,16 @@ Telnet Protocal: Telnet is a network protocol used to virtually access a compute
                  ↬ All commands send by keyboard 
                  ↬ Connection is very fast 
                  ↬ Mostly used in LAN
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Socket: is an end point of communication between 2 devices, 
         if 2 computers wanna communicate with each other over a network then they need a socket at each of there ends
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 View - JoystickView - the view of the joystick.
 MainActivity - The main View of the project.
 utilities - OnJoystickChange interface.
 viewModel - contains the MainViewModel.
 Model - contains the model.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 MVVM Architecture
 Model
 Communicates with the FlightGear server using telnet protocol.
