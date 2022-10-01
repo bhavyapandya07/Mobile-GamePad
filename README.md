@@ -54,8 +54,7 @@ Socket: <br>is an end point of communication between 2 devices,
 <br>↬ ModelFlight - is responsible to connect to the FlightGear and send requests. 
 <br>↬ ViewModel - is responsible to connect between the view (MainActivity) and the model (ModelFlight)
 
-<br>Libraries used: 
-
+Libraries used: 
 <br>↬ Vertical SeekBar v1.0.0 - https://github.com/h6ah4i/android-verticalseekbar
 <br>↬ Virtual Joystick Android v1.10.1 - https://github.com/controlwear/virtual-joystick-android
 
