@@ -55,5 +55,9 @@ Socket: <br>is an end point of communication between 2 devices,
 <br>↬ ViewModel - is responsible to connect between the view (MainActivity) and the model (ModelFlight)
 
 <br>Libraries used: 
+
 <br>↬ Vertical SeekBar v1.0.0 - https://github.com/h6ah4i/android-verticalseekbar
 <br>↬ Virtual Joystick Android v1.10.1 - https://github.com/controlwear/virtual-joystick-android
+
+[Virtual_Gamepad_-_Presentation.pptx](https://github.com/CyberWarrior743/Mobile-GamePad/files/9690967/Virtual_Gamepad_-_Presentation.pptx)
+<br>https://user-images.githubusercontent.com/80274814/193424042-563995c5-9f46-4fed-8ab4-50e454d0c60f.mp4
