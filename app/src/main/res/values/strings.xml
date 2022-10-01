@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VirtualGamePad</string>
+    <string name="port">port</string>
+    <string name="ip">IP</string>
+    <string name="connect">Connect</string>
+    <string name="throttle">Throttle</string>
+    <string name="rudder">Rudder</string>
+</resources>
