@@ -58,6 +58,6 @@ Libraries used:
 <br>✔️ Vertical SeekBar v1.0.0 - https://github.com/h6ah4i/android-verticalseekbar
 <br>✔️ Virtual Joystick Android v1.10.1 - https://github.com/controlwear/virtual-joystick-android
 
-<br>Here is the Working of the App👇🏻
+<br>Here is the Working of the App👇🏻<br>
 [Virtual_Gamepad_-_Presentation.pptx](https://github.com/CyberWarrior743/Mobile-GamePad/files/9690967/Virtual_Gamepad_-_Presentation.pptx)
 <br>https://user-images.githubusercontent.com/80274814/193424042-563995c5-9f46-4fed-8ab4-50e454d0c60f.mp4
